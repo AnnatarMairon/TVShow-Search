@@ -1,2 +1,2 @@
 # TVShow-search
-A small study project that allows to make a search of existing TV Shows by title
+A small study project that allows users to search for existing TV Shows by title
